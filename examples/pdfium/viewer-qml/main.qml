@@ -74,7 +74,7 @@ ApplicationWindow {
             smooth: true
         }
 
-        TextArea {
+        TextEdit {
             id:pdf_text
             width: parent.width/2
             height: parent.height
